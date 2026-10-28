@@ -20,7 +20,7 @@ Install requirements:
 pip install yfinance
 
 
-git clone https://github.com/Shifrozy/Stock-Last-Price.git
+git clone https://github.com/MuhammadHassanC/Stock-Last-Price.git
 cd Stock-Last-Price
 
 
